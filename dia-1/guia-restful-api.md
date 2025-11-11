@@ -494,11 +494,6 @@ Estructura estándar:
    - POST → No idempotente
 6. **Separación cliente-servidor**: permite evolución independiente
 
----
-
-**Última actualización:** Noviembre 2025
-
-**Autor:** Pedro - Consultor React & Arquitectura Web
 
 ---
 
