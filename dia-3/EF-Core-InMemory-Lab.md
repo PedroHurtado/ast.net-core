@@ -1,4 +1,4 @@
-# Laboratorio: Entity Framework Core 8 con InMemory Database en .NET 8
+# Entity Framework Core 8 con InMemory Database en .NET 8
 
 ## 1. Instalación de Paquetes NuGet
 
